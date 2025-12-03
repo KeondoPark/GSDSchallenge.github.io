@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /papers/
 title: Papers
@@ -21,4 +21,4 @@ This page lists the papers related to the URGENT 2024 Challenge or those experim
     > Official summary of the URGENT 2024 Challenge, including system descriptions of top-ranking teams, comprehensive analysis of model behavior, and other findings from the challenge.
 
 4. [**2025-05**] Sanberk Serbest, Tijana Stojkovic, Milos Cernak, Andrew Harper, “[DeepFilterGAN: A Full-band Real-time Speech Enhancement System with GAN-based Stochastic Regeneration](https://arxiv.org/abs/2505.23515),” arXiv preprint arXiv:2505.23515, 2025.
-    > A new model evaluated on the URGENT 2024 Challenge non-blind test set.
+    > A new model evaluated on the URGENT 2024 Challenge non-blind test set. -->

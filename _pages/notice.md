@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /notice/
 title: Notice
@@ -30,4 +30,4 @@ nav_order: 10
 
 * **[2024-06-22]** We have updated the [`Submission`](/GSDSchallenge2026/submission) tab to emphasize that multiple registrations from different members in the same team are not allowed.
 
-* **[2024-06-20]** We have launched the leaderboard and open the registration system for leaderboard submission! Please visit the [leaderboard page](/GSDSchallenge2026/leaderboard/) for more information.
+* **[2024-06-20]** We have launched the leaderboard and open the registration system for leaderboard submission! Please visit the [leaderboard page](/GSDSchallenge2026/leaderboard/) for more information. -->

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gsdschallenge.github.io/GSDSchallenge2026/sitemap.xml
+Sitemap: http://localhost:4000/GSDSchallenge2026/sitemap.xml
